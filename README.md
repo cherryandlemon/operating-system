@@ -1,1 +1,1 @@
-# oprating-system
+# operating-system
